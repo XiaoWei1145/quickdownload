@@ -1,0 +1,6 @@
+rootProject.name = 'MultiCloudDownloader'
+include ':app'
+include ':core'
+include ':parser'
+include ':download'
+include ':ui'
